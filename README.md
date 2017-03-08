@@ -3,4 +3,4 @@
 
 ---
 
-(https://vetswhocode.io "Click here") to learn more about Vets Who Code.
+[Click here] (http://vetswhocode.io/) to learn more about Vets Who Code.
