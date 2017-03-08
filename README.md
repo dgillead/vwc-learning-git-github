@@ -6,4 +6,4 @@
 
 ---
 
-To learn more about vetswhocode check out the website at: (https://www.http://vetswhocode.io/)
+(https://vetswhocode.io "Click here") to learn more about Vets Who Code.
